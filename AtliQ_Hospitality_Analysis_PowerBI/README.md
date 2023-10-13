@@ -31,7 +31,3 @@ You can access the live dashboard on Power BI Service: [Power BI Dashboard](http
 
 1. Download the project to your computer.
 2. Open the Power BI file to explore the data.
-
-**License:**
-
-This project is open-source and available under the [MIT License](LICENSE).
