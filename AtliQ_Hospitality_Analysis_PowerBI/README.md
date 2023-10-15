@@ -25,7 +25,7 @@ You can find all the project files on GitHub: [Project Repository](https://githu
 
 **Power BI Service:**
 
-You can access the live dashboard on Power BI Service: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWVhM2IzZDgtYmExNS00YjZkLWI4NjktYzY2N2E4YzQ5YzMzIiwidCI6ImM2ZTU4MTNkLTVmNDUtNDVkNy1iY2EzLTNhZTQzNGFlNzBkYiJ9).
+You can access the live dashboard on Power BI Service: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWVhM2IzZDgtYmExNS00YjZkLWI4NjktYzY2N2E4YzQ5YzMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 **How to Use:**
 
